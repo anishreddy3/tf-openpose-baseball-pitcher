@@ -10,6 +10,6 @@
 
 ## Result
 
-![alt text](https://raw.githubusercontent.com/anishreddy3/tf_baseball_pitcher/master/outpy.gif)
+![](output.gif)
 
 
